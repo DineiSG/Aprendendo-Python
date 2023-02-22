@@ -26,7 +26,7 @@ print("\n")
 print("Nome: ", nome)
 print("Email: ", email)
 print("Senha: ", senha)
-print("Endereco: ", endereco,"/""Cidade: ",cidade,"/""Estado: ",estado,"/""CEP: ",cep)
+print("Endereco: ", endereco,"\n""Cidade: ",cidade,"\n""Estado: ",estado,"\n""CEP: ",cep)
 print("\n")
 
 print("---------------------------------------------------------------------")
