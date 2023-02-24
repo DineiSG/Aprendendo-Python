@@ -1,7 +1,7 @@
 #...
 #autor: Waldinei Santos Gonçalves
-#data: 15/02/2023
-#finalidade: sistema de ajuste de preco
+#data: 24/02/2023
+#finalidade: Sistema de Ajuste de Preco
 #versão: 0.0
 #...
 

@@ -1,7 +1,7 @@
 #...
 #autor: Waldinei Santos Gonçalves
-#data: 15/02/2023
-#finalidade: cadastro de funcionario
+#data: 24/02/2023
+#finalidade: Cadastro de Funcionario
 #versão: 0.0
 #...
 
